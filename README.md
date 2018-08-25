@@ -128,7 +128,7 @@ audioObject.onvolumechange = function(){
 ## Demo
 ![](http://ww1.sinaimg.cn/large/90864b23gy1fumevu4bwzj20i60acjzw.jpg)
 
-**[效果预览](http://js.jirengu.com/dudi)**
+**[效果预览](https://f0rl.github.io/musicPlayer/index.html)**
 
 ## 参考资料
 - [MDN-HTMLMediaElement](https://developer.mozilla.org/zh-CN/docs/Web/API/HTMLMediaElement)
